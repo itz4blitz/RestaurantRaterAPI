@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "yEMGkP4uRgHoHYe8UcMZ6v9+3vJJhPvqS+17YgLqlgJyXeArLOGgu/K/Xa3D+ztFkst8IXuY7/ZERHSx/H2o4g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\blitz\\source\\repos\\RestaurantRaterAPI\\RestaurantRaterAPI\\RestaurantRaterAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\blitz\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\blitz\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\blitz\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\blitz\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\blitz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\blitz\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
